@@ -27,4 +27,5 @@
 <a href="https://twitter.com/devtripper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="devtripper" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/juancarloscancela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juancarloscancela" height="30" width="30" /></a>
 <a href="https://fb.com/juan.cancela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juan.cancela" height="30" width="30" /></a>
+<a href="https://dev.to/juancancela" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="juancancela" height="30" width="30" /></a>
 </p>
