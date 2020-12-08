@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juancancela" alt="juancancela" /> </p>
 
-- 🔭 I’m currently working on [Ipsy](https://www.ipsy.com/)
+- 🔭 I’m currently working at [Randiantech](http://www.randiantech.com/)
 
 - 🌱 I’m currently learning **NextJs, Kotlin, Spring Boot, Apache Kafka, Go**
 
