@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ft.com<br>👯 I’m looking to learn<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working at [Financial Times](ft.com)<br>👯 I’m looking to learn<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
