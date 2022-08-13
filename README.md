@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working at [Financial Times](ft.com)
+📰 I’m currently working at [[Financial Times]](https://www.ft.com/)
 <br>
 <br>
-🌐 Personal Professional Site at [juancancela.work](juancancela.work)
+🌐 Personal Professional Site at [juancancela.work](https://juancancela.work)
 <br>
 <br>
 🌐 Personal Substack -mostly in spanish, non technical- at [archivo.substack](https://archivo.substack.com/)
