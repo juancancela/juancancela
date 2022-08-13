@@ -2,7 +2,7 @@
 📰 I’m currently working at [Financial Times](https://www.ft.com/)
 <br>
 <br>
-🌐 Personal Professional Site at [juancancela.work](https://juancancela.work)
+🌐 Personal Professional Site at [juancancela.work](http://juancancela.work)
 <br>
 <br>
 🌐 Personal Substack -mostly in spanish, non technical- at [archivo.substack](https://archivo.substack.com/)
