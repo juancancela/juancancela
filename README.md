@@ -1,5 +1,5 @@
 # 💫 About Me:
-📰 I’m currently working at [Financial Times](https://www.ft.com/)
+📰 I’m currently working at [GoFundMe](https://www.gofundme.com/)
 <br>
 <br>
 🌐 Personal Professional Site at [juancancela.work](http://juancancela.work)
