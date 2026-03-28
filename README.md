@@ -5,7 +5,7 @@
 🌐 Personal Professional Site at [juancancela.work](http://juancancela.work)
 <br>
 <br>
-🌐 Personal Substack -mostly in spanish, non technical- at [archivo.substack](https://archivo.substack.com/)
+🌐 Youtube channel at [Pixel Filoso](https://www.youtube.com/@pixelfiloso)
 <br>
 
 # 💻 Tech Stack:
