@@ -2,7 +2,7 @@
 📰 I’m currently working at [GoFundMe](https://www.gofundme.com/)
 <br>
 <br>
-📰 10+ years leading [Randiantech](https://randiantec.com/), a boutique AI consultancy company providing an all-in-one AI toolkit for companies to boos productivity.
+📰 10+ years leading [Randiantech](https://randiantec.com/), a boutique AI consultancy company providing an all-in-one AI toolkit for companies to boost productivity.
 <br>
 <br>
 🌐 Personal Professional Site at [juancancela.work](http://juancancela.work)
